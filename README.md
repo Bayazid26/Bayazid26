@@ -54,6 +54,50 @@ I am also actively involved in open mapping and geospatial projects, contributin
 **Bachelor of Science in Computer Science & Engineering**  
 Eastern University, Bangladesh (Ongoing)
 
+
+
+
+
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bayazid26&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bayazid26&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bayazid26&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:232400017@easternuni.edu.bd">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/bayazid-ahmed-49490625b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="https://github.com/Bayazid26">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+</p>
+
+---
+
+💬 *“Consistency beats motivation. Every single time.”*
+
 ### 📚 Relevant Coursework
 - Data Communication  
 - Microprocessor & Microcontroller  
@@ -525,43 +569,4 @@ A curated list of repositories to master the Linux ecosystem, from core fundamen
 - 🌍 Open Mapping Contributor – Geospatial projects & real-world mapping  
 - 💡 CSE Problem Solver – DSA, backend systems, algorithms  
 
----
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bayazid26&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bayazid26&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bayazid26&theme=tokyonight" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="mailto:232400017@easternuni.edu.bd">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/bayazid-ahmed-49490625b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-
-  <a href="https://github.com/Bayazid26">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
-</p>
-
----
-
-💬 *“Consistency beats motivation. Every single time.”*
