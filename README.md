@@ -1,54 +1,57 @@
-# Bayazid Ahmed
+# Hi 👋, I'm Bayazid Ahmed
 
-**Software Developer • Problem Solver • Continuous Learner**
-
----
-
-## Profile
-
-I am a motivated developer focused on building clean, maintainable, and scalable software.  
-I enjoy solving real-world problems, learning modern technologies, and collaborating on meaningful projects.
-
-- Currently learning and improving core development skills
-- Interested in Web Development, Backend Systems, and Open Source
-- Committed to writing clean, readable code
+### 💻 Software Developer | Problem Solver | Open Source Enthusiast
 
 ---
 
-## Technical Skills
+## 🧠 About Me
 
-**Languages**
-- Python  
-- JavaScript  
-- HTML, CSS  
+I am a passionate software developer focused on building scalable, efficient, and real-world applications.
 
-**Frameworks & Technologies**
-- React  
-- Node.js  
-- Django  
-
-**Tools**
-- Git & GitHub  
-- VS Code  
-- Linux basics  
+- 🌱 Currently improving full-stack development skills  
+- 💡 Interested in Web Development, Backend Systems & Open Source  
+- 🧩 Love solving algorithmic and real-world problems  
+- 🚀 Always learning and building new things  
 
 ---
 
-## Selected Projects
+## ⚙️ Tech Stack
 
-### Project Name
-**Description:** Brief and clear explanation of what the project does.  
-**Tech Stack:** Python, JavaScript  
-**Repository:** https://github.com/username/project-name  
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Project Name
-**Description:** Focus on the problem solved, not just features.  
-**Tech Stack:** HTML, CSS, JavaScript  
-**Repository:** https://github.com/username/project-name  
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### 🛠 Tools
+Git • GitHub • VS Code • Linux
 
 ---
 
-## GitHub Activity
+## 🚀 Projects
+
+### 🔹 Project 1: Example Name
+Short description of what it does and why it matters.  
+**Tech:** React, Node.js  
+🔗 Repo: https://github.com/username/project
+
+---
+
+### 🔹 Project 2: Example Name
+Problem it solves + impact.  
+**Tech:** HTML, CSS, JS  
+🔗 Repo: https://github.com/username/project
+
+---
+
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 
@@ -56,12 +59,16 @@ I enjoy solving real-world problems, learning modern technologies, and collabora
 
 ---
 
-## Contact
+## 📫 Connect With Me
 
-- Email: your@email.com  
-- LinkedIn: https://linkedin.com/in/yourprofile  
-- Portfolio: https://yourwebsite.com  
+- 📧 Email: your@email.com  
+- 🔗 LinkedIn: https://linkedin.com/in/yourprofile  
+- 🌍 Portfolio: https://yourwebsite.com  
 
 ---
 
-> *Focused on growth, consistency, and quality engineering.*
+## ✨ Quote
+
+> “Code is not just syntax, it’s problem-solving logic.”
+
+---
